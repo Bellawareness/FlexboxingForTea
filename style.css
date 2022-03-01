@@ -115,10 +115,14 @@ padding: 40px;
 max-height: 300px;
 }
 
-
+h6{
+  text-alight: left;
+}
 
 .footer {
   padding: 60px 0px;
   background-color: #000;
   color: #fff;
+  max-height:200px;
+  
 }
